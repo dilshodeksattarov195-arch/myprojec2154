@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userrarse",
+        "uuid": 872370,
+        "checksum": "7zzlvk"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
